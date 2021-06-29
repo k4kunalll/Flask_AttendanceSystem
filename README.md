@@ -1,5 +1,6 @@
 # flask_AttendanceSystem
 
+# Things to do before using
 a) Create a folder 'data' 
 -- all the user frames will be saved here by their names
 
