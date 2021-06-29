@@ -1,3 +1,4 @@
+![Screenshot from 2021-06-29 22-34-57](https://user-images.githubusercontent.com/48386064/123840299-c82ac780-d92b-11eb-8eb0-282dc152ee40.png)
 # flask_AttendanceSystem
 
 a) Create a folder 'data' 
